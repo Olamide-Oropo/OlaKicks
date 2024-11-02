@@ -3,12 +3,12 @@ module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
-  screens: {
+  theme: {
+    screens: {
       sm: "375px",
       md: "550px",
       xl: "1440px"
   },
-  theme: {
     extend: {
       colors:{
         customOrange:"hsl(26, 100%, 55%)",
