@@ -10,7 +10,7 @@ This is a demo webpage which currently is not responsive and only works on  desk
 
 ----
 
-![](./design/active-states-basket-filled.jpg.jpg)
+![](./design/active-states-basket-filled.jpg)
 
 ### Built with
 
